@@ -1,6 +1,6 @@
 Create Card class DONE
 
-Create Deck class
+Create Deck class DONE
 
 Create Hand class
 
