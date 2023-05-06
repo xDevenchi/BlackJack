@@ -12,4 +12,6 @@ Define functions to display cards to player
 
 Define function for game results
 
-Halfway point 
+Create the game itself (includes displays for player, prompts, welcome message, rules, and a replay message)
+
+
