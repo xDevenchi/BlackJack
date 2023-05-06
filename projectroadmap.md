@@ -14,7 +14,7 @@ Define function for game results
 
 Create welcome message, create the deck, and set up player chips
 
-Prompts, displays for cards, create chains of events for losing, and rules
+Create prompts, displays for cards, create chains of events for losing, and rules
 
 Create chain of events for winning
 
