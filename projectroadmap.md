@@ -12,6 +12,12 @@ Define functions to display cards to player
 
 Define function for game results
 
-Create the game itself (includes displays for player, prompts, welcome message, rules, and a replay message)
+Create welcome message, create the deck, and set up player chips
+
+Prompts, displays for cards, create chains of events for losing, and rules
+
+Create chain of events for winning
+
+Display player chips, replay prompt, and goodbye message
 
 
